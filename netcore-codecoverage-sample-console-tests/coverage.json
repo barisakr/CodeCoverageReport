@@ -1,0 +1,15 @@
+{
+  "NetCore.CodeCoverage.Sample.Console.dll": {
+    "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/Program.cs": {
+      "NetCore.CodeCoverage.Sample.Console.Program": {
+        "System.Void NetCore.CodeCoverage.Sample.Console.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

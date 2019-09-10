@@ -1,0 +1,11 @@
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/obj/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.csprojAssemblyReference.cache
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/obj/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.csproj.CoreCompileInputs.cache
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/obj/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.AssemblyInfoInputs.cache
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/obj/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.AssemblyInfo.cs
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/bin/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.deps.json
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/bin/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.runtimeconfig.json
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/bin/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.runtimeconfig.dev.json
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/bin/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.dll
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/bin/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.pdb
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/obj/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.dll
+/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/obj/Debug/netcoreapp2.2/NetCore.CodeCoverage.Sample.Console.pdb

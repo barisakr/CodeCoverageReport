@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console-tests/NetCore.CodeCoverage.Sample.Console.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console-tests/NetCore.CodeCoverage.Sample.Console.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console-tests/NetCore.CodeCoverage.Sample.Console.Tests.csproj",
+        "projectName": "NetCore.CodeCoverage.Sample.Console.Tests",
+        "projectPath": "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console-tests/NetCore.CodeCoverage.Sample.Console.Tests.csproj",
+        "packagesPath": "/Users/barisakar/.nuget/packages/",
+        "outputPath": "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console-tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/barisakar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/NetCore.CodeCoverage.Sample.Console.csproj": {
+                "projectPath": "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/NetCore.CodeCoverage.Sample.Console.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.6.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/NetCore.CodeCoverage.Sample.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/NetCore.CodeCoverage.Sample.Console.csproj",
+        "projectName": "NetCore.CodeCoverage.Sample.Console",
+        "projectPath": "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/NetCore.CodeCoverage.Sample.Console.csproj",
+        "packagesPath": "/Users/barisakar/.nuget/packages/",
+        "outputPath": "/Users/barisakar/Documents/Projects/TestCoverageReport/netcore-codecoverage-sample/netcore-codecoverage-sample-console/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/barisakar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
